@@ -1,4 +1,4 @@
-# 📊 Adidas USA Sales Dashboard
+# 📊 Adidas USA Sales
 An interactive Tableau dashboard that visualizes Adidas sales data in the U.S. from 2020 to 2021, helping users quickly explore where and how sales are performing across different segments — all built entirely in Tableau.
 
 
