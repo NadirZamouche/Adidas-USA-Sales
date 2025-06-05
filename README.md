@@ -10,12 +10,12 @@ Click the image below to see for yourself:
 </a>
 
 ## 📈 Features
-💵 Total Sales ($115.5M) and Profit ($32.1M)
-🛍️ Sales breakdown by Retailer, Region, State, and Product Category
-🌐 Comparison of Online vs Outlet sales
-📅 Monthly sales trend analysis
-🗺️ Geographic visualization by U.S. state
-🎛️ Dynamic filters for Year, Region, and Product
+💵 Total Sales ($115.5M) and Profit ($32.1M). <br>
+🛍️ Sales breakdown by Retailer, Region, State, and Product Category. <br>
+🌐 Comparison of Online vs Outlet sales. <br>
+📅 Monthly sales trend analysis. <br>
+🗺️ Geographic visualization by U.S. state. <br>
+🎛️ Dynamic filters for Year, Region, and Product. <br>
 
 ## 📌 Notes
 - Assigned a *Geographic Role* to the *Regions* field as *Country/Region*.  
