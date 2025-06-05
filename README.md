@@ -18,10 +18,11 @@ Click the image below to see for yourself:
 🎛️ Dynamic filters for Year, Region, and Product. <br>
 
 ## 📌 Notes
-- Assigned a *Geographic Role* to the *Regions* field as *Country/Region*.  
+- Assigned a *Geographic Role* to the *Region* field as *Country/Region*.  
 - Renamed columns:  
-  - `Total Revenue` → `Sales`  
-  - `Total Profit` → `Profit`  
-- Applied a *Data Source Filter* to include only 2012 data for optimized performance.  
-- Added filters for *Sales by Month, Sales by Type,* and *Sales by Country* to enhance interactivity.  
-  - Selecting a specific *month*, *item type*, or *country* dynamically updates the *Sales* and *Profit* values, along with the other sheets in the dashboard.  
+  - `Total Sales` → `Sales`  
+  - `Operational Profit` → `Profit`
+- I have gotten rid of *Retailer Id* column since I didn't need it.
+- Applied a *Data Source Filter* to exclude *Alaska* & *Hawaii* from the *State* field only for dashboard layout purposes.  
+- Added filters for every single chart to enhance interactivity.  
+  - Selecting a specific thing dynamically updates the values of the other sheets in the dashboard.
