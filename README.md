@@ -13,7 +13,7 @@ Click the image below to see for yourself:
 💵 Total Sales ($115.5M) and Profit ($32.1M). <br>
 📅 Monthly sales trend analysis. <br>
 🛍️ Sales breakdown by Retailer. <br>
-🗺️ Geographic visualization by state. <br>
+🗺️ Geographic visualization of sales by state. <br>
 🌐 Comparison of Online vs Outlet vs In-store sales. <br>
 🎛️ Dynamic filters for Year, Region, and Product. <br>
 
